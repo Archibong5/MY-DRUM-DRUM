@@ -1,0 +1,52 @@
+.btn{
+  width: 200px;
+  height: 200px;
+  margin: 0 20px 20px 0;
+  font-size: 4rem;
+  color : white;
+  border-radius: 30px;
+  border: 10px solid white;
+  }
+
+.first-container{
+  text-align: center;
+  background-color: silver;
+  padding: 50px;
+
+
+
+
+}
+.h{
+  margin: 0 0 50px 0;
+  color : white;
+}
+
+.a{
+  background-image: url("../m1.png");
+
+}
+
+.b{
+  background-image: url("../m2.jpg");
+
+}
+
+.c{
+  background-image: url("../m3.png");
+
+}
+
+.d{
+  background-image: url("../m4.jpg");
+
+}
+
+.light{
+  color : yellow;
+  font-size: 3rem;
+}
+
+.darkness{
+  background-color: black;
+}
